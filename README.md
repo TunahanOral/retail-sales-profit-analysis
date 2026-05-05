@@ -19,15 +19,17 @@ Rather than only reporting sales performance, the analysis aims to uncover **why
 1. **Executive Overview**
    - Overall trends in sales, profit, and profit margin
    - Identification of periods where sales and profit diverge
-   -  (![Executive Overview](images/overview.PNG)) 
+   -  ![Executive Overview](images/overview.PNG)
 
 2. **Sales vs Profit Drivers**
    - Category-level comparison of revenue and profitability
    - Detection of high-sales, low-margin categories
+   - ![Executive Overview](images/driver.PNG)
 
 3. **Action View**
    - Discount vs profit relationship analysis
    - Identification of products requiring pricing or discount strategy review
+   - ![Executive Overview](images/action_view.PNG)
 
 ## Tools & Skills
 - Power BI
